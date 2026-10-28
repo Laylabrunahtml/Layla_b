@@ -6,7 +6,7 @@ Tenho 17 anos e sou estudante de **Programação de Sistemas**. 💻
 
 📚 **Sobre mim**
 Já estudei programação em computador e tenho interesse em tecnologia e desenvolvimento web.
-Atualmente, estudo HTML, CSS e Mercadologia Ágil, buscando ampliar meus conhecimentos e
+Atualmente, estudo HTML, CSS e Metadologia Ágil, buscando ampliar meus conhecimentos e
 desenvolver novas habilidades.
 
 ✨ **Minhas qualidades**
