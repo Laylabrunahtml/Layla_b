@@ -1,8 +1,7 @@
 # Layla_b
+# Olá! 👋 Seja bem-vindos
+
 Quem eu sou?
-
-# Olá! 👋 Seja bem-vindo(a) ao meu perfil!
-
 Tenho 17 anos e sou estudante de **Programação de Sistemas**. 💻
 
 📚 **Sobre mim**
