@@ -2,7 +2,9 @@
 # Olá! 👋 Seja bem-vindos
 
 Quem eu sou?
-Tenho 17 anos e sou estudante de **Programação de Sistemas**. 💻
+ Oii! Eu sou estudante de programação!
+💖 Tenho 17 anos e estou descobrindo o mundo da tecnologia, uma linha de código por vez!
+
 
 📚 **Sobre mim**
 Já estudei programação em computador e tenho interesse em tecnologia e desenvolvimento web.
@@ -17,10 +19,11 @@ desenvolver novas habilidades.
 - 🤝 Aberta a novas ideias e experiências.
 
 💻 **Tecnologias e conhecimentos**
-- HTML
-- CSS
-- Programação de Sistemas
-- Mercadologia Ágil
+- 💻 Estudante de Programação de Sistemas
+- 🌐 Aprendendo HTML e CSS
+- 📚 Estudando Mercadologia Ágil
+- 🧠 Curiosa, criativa e cheia de vontade de aprender
+- ✨ Transformando ideias em códigos (e bugs em aprendizado 😂)
 
 🌱 **Meus objetivos**
 Continuar aprendendo, aprimorar minhas habilidades 
